@@ -1,6 +1,5 @@
--- SQL Script for Employee Table and Correlated Subqueries
 
--- 1. Create the `employee` Table
+-- 1. Create the employee Table
 CREATE TABLE employee (
     employee_id INT PRIMARY KEY,
     first_name VARCHAR(50),
